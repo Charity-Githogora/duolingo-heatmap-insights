@@ -3,6 +3,7 @@ DUOLINGO HEATMAP INSIGHTS
 This project analyzes Duolingo learning patterns using a heatmap visualization. The goal is to explore user engagement trends based on the time of day and day of the week.
 
 DATASET SOURCE 
+
 The dataset used for this project comes from Duolingo’s spaced repetition dataset. It contains 13 million learning traces, tracking users’ interactions, correct/incorrect answers, timestamps, and other details.
 
 PROJECT PROCESS
@@ -23,7 +24,9 @@ This project was developed in Google Colab, making it easy to work with large da
 * Downloaded the cleaned dataset from Colab.
 * Saved and uploaded the notebook & dataset to GitHub for sharing and collaboration.
 
+
 HOW TO RUN THIS PROJECT
+
 Since this was developed in Google Colab, you can either:
 1. Run it directly on Google Colab by uploading the notebook and dataset.
 2. Run it locally by following these steps:
@@ -31,12 +34,16 @@ Since this was developed in Google Colab, you can either:
    - Install dependencies (pip install pandas matplotlib seaborn plotly)
    - Open and run the Jupyter Notebook or Google Colab
 
+
 RESULTS AND INSIGHTS
+
 The final heatmap provides a clear pattern of user activity on Duolingo:
 - Identifies peak learning hours.
 - Shows the most active days of the week.
 - Helps understand when users are most engaged in learning.
 
+
 CONTRIBUTING
+
 Feel free to fork this repository and suggest improvements
 
