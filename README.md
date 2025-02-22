@@ -1,4 +1,5 @@
 DUOLINGO HEATMAP INSIGHTS
+
 This project analyzes Duolingo learning patterns using a heatmap visualization. The goal is to explore user engagement trends based on the time of day and day of the week.
 
 DATASET SOURCE 
