@@ -34,6 +34,10 @@ Since this was developed in Google Colab, you can either:
    - Install dependencies (pip install pandas matplotlib seaborn plotly)
    - Open and run the Jupyter Notebook or Google Colab
 
+ACCESSING THE DATASET
+
+You can access the dataset I used to visualize this data via this link: https://www.kaggle.com/datasets/charitygithogora/cleaned-duolingo-learning-data
+
 
 RESULTS AND INSIGHTS
 
